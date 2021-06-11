@@ -1,0 +1,15 @@
+C:\Users\oldab\source\repos\CS019SoucetCisel\CS019SoucetCisel\bin\Debug\netcoreapp3.1\CS019SoucetCisel.exe
+C:\Users\oldab\source\repos\CS019SoucetCisel\CS019SoucetCisel\bin\Debug\netcoreapp3.1\CS019SoucetCisel.deps.json
+C:\Users\oldab\source\repos\CS019SoucetCisel\CS019SoucetCisel\bin\Debug\netcoreapp3.1\CS019SoucetCisel.runtimeconfig.json
+C:\Users\oldab\source\repos\CS019SoucetCisel\CS019SoucetCisel\bin\Debug\netcoreapp3.1\CS019SoucetCisel.runtimeconfig.dev.json
+C:\Users\oldab\source\repos\CS019SoucetCisel\CS019SoucetCisel\bin\Debug\netcoreapp3.1\CS019SoucetCisel.dll
+C:\Users\oldab\source\repos\CS019SoucetCisel\CS019SoucetCisel\bin\Debug\netcoreapp3.1\CS019SoucetCisel.pdb
+C:\Users\oldab\source\repos\CS019SoucetCisel\CS019SoucetCisel\obj\Debug\netcoreapp3.1\CS019SoucetCisel.csprojAssemblyReference.cache
+C:\Users\oldab\source\repos\CS019SoucetCisel\CS019SoucetCisel\obj\Debug\netcoreapp3.1\CS019SoucetCisel.csproj.GenerateResource.cache
+C:\Users\oldab\source\repos\CS019SoucetCisel\CS019SoucetCisel\obj\Debug\netcoreapp3.1\CS019SoucetCisel.AssemblyInfoInputs.cache
+C:\Users\oldab\source\repos\CS019SoucetCisel\CS019SoucetCisel\obj\Debug\netcoreapp3.1\CS019SoucetCisel.AssemblyInfo.cs
+C:\Users\oldab\source\repos\CS019SoucetCisel\CS019SoucetCisel\obj\Debug\netcoreapp3.1\CS019SoucetCisel.csproj.CoreCompileInputs.cache
+C:\Users\oldab\source\repos\CS019SoucetCisel\CS019SoucetCisel\obj\Debug\netcoreapp3.1\CS019SoucetCisel.dll
+C:\Users\oldab\source\repos\CS019SoucetCisel\CS019SoucetCisel\obj\Debug\netcoreapp3.1\CS019SoucetCisel.pdb
+C:\Users\oldab\source\repos\CS019SoucetCisel\CS019SoucetCisel\obj\Debug\netcoreapp3.1\CS019SoucetCisel.genruntimeconfig.cache
+C:\Users\oldab\source\repos\CS019SoucetCisel\CS019SoucetCisel\obj\Debug\netcoreapp3.1\CS019SoucetCisel.SoucetCiselForm.resources
